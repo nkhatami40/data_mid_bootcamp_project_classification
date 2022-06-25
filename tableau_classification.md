@@ -20,7 +20,7 @@ Tableau Questions:
     - Create a cross tab between Offer Accepted and Mailer Type and fill the table with number of records. Do you observe any trend here?
     - Create a cross tab between Offer Accepted and Credit Rating and fill the table with number of records. Rearrange the column credit rating from low to high. Do you observe any trend here?
 
-8.  Based on the average balance for each customer, create four buckets : Category A, Category B, Category C, and Category C. Conduct a further deep dive into each of the categories and identify the possible trends.
+8.  Based on the average balance for each customer, create four buckets: **Category A**, **Category B**, **Category C** and **Category D**. Conduct a further deep dive into each of the categories and identify the possible trends.
 9.  Create a visually appealing dashboard to represent the information
     **Some points to keep in mind while working on the tableau questions:**
 
