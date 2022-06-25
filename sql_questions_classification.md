@@ -23,9 +23,9 @@ SET GLOBAL local_infile = 1;
     - What are the unique values in the column `credit_cards_held`?
     - What are the unique values in the column `household_size`?
 
-8.  Arrange the data in a decreasing order by the `average_balance` of the house. Return only the `customer_number` of the top 10 customers with the highest `average_balances` in your data.
+8.  Arrange the data in a decreasing order by the `average_balance` of the customer. Return only the `customer_number` of the top 10 customers with the highest `average_balances` in your data.
 9.  What is the average balance of all the customers in your data?
-10. In this exercise we will use simple group by to check the properties of some of the categorical variables in our data. Note wherever `average_balance` is asked, please take the average of the column `average_balance`: <!-- 🚨🚨🚨 @himanshu - can we rephrase this? -->
+10. In this exercise we will use simple `group_by` to check the properties of some of the categorical variables in our data. Note wherever `average_balance` is asked, please take the average of the column `average_balance`: <!-- 🚨🚨🚨 @himanshu - can we rephrase this? -->
 
     - What is the average balance of the customers grouped by `Income Level`? The returned result should have only two columns, income level and `Average balance` of the customers. Use an alias to change the name of the second column.
     - What is the average balance of the customers grouped by `number_of_bank_accounts_open`? The returned result should have only two columns, `number_of_bank_accounts_open` and `Average balance` of the customers. Use an alias to change the name of the second column.
