@@ -117,9 +117,10 @@ ORDER BY household_size;
 # 8. Arrange the data in a decreasing order by the average_balance of the customer. 
 # Return only the customer_number of the top 10 customers with the highest average_balances in your data.
 
-SELECT * FROM credit_card_data
+SELECT customer_number FROM credit_card_data
 ORDER BY average_balance DESC
 LIMIT 10;
+### 2297, 12636, 8888, 10577, 14004, 10476, 2656, 15260, 15609, 8778
 
 # 9. What is the average balance of all the customers in your data?
 
