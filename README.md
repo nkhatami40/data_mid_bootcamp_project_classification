@@ -10,6 +10,6 @@ We performed exploratory data analysis to identify which features are related to
 
 [SQL](https://github.com/mariabollain/data_mid_bootcamp_project_classification/blob/master/SQL/classification.sql)
 
-[Tableau]
+[Tableau](https://public.tableau.com/app/profile/andr.s.martino/viz/MidBootcampProject_16833308152290/Dashboard1?publish=yes)
 
 [Presentation](https://www.canva.com/design/DAFhyXH5sV0/r2qHDAY1RlruVMjxI3ntqg/view?utm_content=DAFhyXH5sV0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
