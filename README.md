@@ -1,4 +1,4 @@
-# data_mid_bootcamp_project_classification
+# Credit card marketing study: binary classification
 
 The objective of this project is to analyse the characteristics of the bank customers that accept or reject a credit card offer, and predict customers' behaviour in this regard.
 
@@ -6,10 +6,19 @@ With that end in mind, we studied a dataframe with information about 18000 bank 
 
 We performed exploratory data analysis to identify which features are related to the acceptance or otherwise of the credit card offer, and used machine learning techniques for classification with the objective of predicting the consumers behaviour.
 
-[Jupiter notebook](https://github.com/mariabollain/data_mid_bootcamp_project_classification/blob/master/PYTHON/Classification.ipynb)
+This project was developed in two weeks as the mid-bootcamp project for the Data Analytics bootcamp at Ironhack.
 
-[SQL](https://github.com/mariabollain/data_mid_bootcamp_project_classification/blob/master/SQL/classification.sql)
+## Team members
+- Andrés Martino
+- María Bollaín
+- Neda Khatami
 
-[Tableau](https://public.tableau.com/app/profile/andr.s.martino/viz/MidBootcampProject_16833308152290/Dashboard1?publish=yes)
+## Tools and links to files
 
-[Presentation](https://www.canva.com/design/DAFhyXH5sV0/r2qHDAY1RlruVMjxI3ntqg/view?utm_content=DAFhyXH5sV0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [Jupiter notebook](https://github.com/mariabollain/data_mid_bootcamp_project_classification/blob/master/PYTHON/Classification.ipynb)
+  
+- [SQL](https://github.com/mariabollain/data_mid_bootcamp_project_classification/blob/master/SQL/classification.sql)
+
+- [Tableau](https://public.tableau.com/app/profile/andr.s.martino/viz/MidBootcampProject_16833308152290/Dashboard1?publish=yes)
+
+- [Presentation](https://www.canva.com/design/DAFhyXH5sV0/r2qHDAY1RlruVMjxI3ntqg/view?utm_content=DAFhyXH5sV0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
